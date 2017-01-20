@@ -3,6 +3,6 @@ Journal de bord groupe 5
 
 # Equipe 
 
-VANDESOMPELE Pierre
+VANDESOMPELE Pierre /n
 EL HOUTI Mehdi
 CANIPEL Marc
