@@ -29,6 +29,7 @@ Journal de bord groupe 5
 <h3> Troisième séance du 20 Janvier </h3>
 - Modification sur le Framework
 - Poursuite des tests sur le jeu afin d'explorer au maximum le Framework
+- On regarde pour modifier la gravité, afin d'en avoir une horizontale
 
 
 # Lien vers le jeu Test :
