@@ -41,6 +41,10 @@ Journal de bord groupe 5
 <ul>
 <li> Remove the oneStepMoveAddedBehavior abstraction (en cours) </li>
 </ul>
+- Confirmation : pas de modification de la gravité
+<ul>
+<li> Implementation trop longue pour le réaliser </li>
+</ul>
 
 # Lien vers le jeu Test :
 https://github.com/Pierre-Vandesompele/antiMehdi-Game
