@@ -31,6 +31,14 @@ Journal de bord groupe 5
 - Poursuite des tests sur le jeu afin d'explorer au maximum le Framework
 - On regarde pour modifier la gravité, afin d'en avoir une horizontale
 
+<h3> Quatrième séance 27 Janvier </h3>
+- Modification de la Classe Sound
+<ul>
+<li> Proposition d'un PullRequest </li>
+</ul>
+- Suite exploration du Framework
+- 2e Pull Request du Framework
+
 
 # Lien vers le jeu Test :
 https://github.com/Pierre-Vandesompele/antiMehdi-Game
