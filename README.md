@@ -38,7 +38,9 @@ Journal de bord groupe 5
 </ul>
 - Suite exploration du Framework
 - 2e Pull Request du Framework
-
+<ul>
+<li> Remove the oneStepMoveAddedBehavior abstraction (en cours) </li>
+</ul>
 
 # Lien vers le jeu Test :
 https://github.com/Pierre-Vandesompele/antiMehdi-Game
