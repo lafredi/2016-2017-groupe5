@@ -61,4 +61,5 @@ https://github.com/Pierre-Vandesompele/antiMehdi-Game
 - untrusted (projet orienté web)
 - https://github.com/AgronKabashi/TemplateEngine
 - https://github.com/Soundnode/soundnode-app
+- https://github.com/taigaio/taiga-front
 
