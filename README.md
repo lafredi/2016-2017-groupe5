@@ -2,7 +2,7 @@
 Journal de bord groupe 5
 
 
-The executable jar archive can be obtained with mvn package. 
+The executable jar archive can be obtained with mvn package. Which can be executed using : mvn exec:java
 
 <h3> 2016-2017-groupe5 </h3>
 Journal de bord groupe 5
