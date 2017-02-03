@@ -32,7 +32,7 @@ Journal de bord groupe 5
 - On regarde pour modifier la gravité, afin d'en avoir une horizontale
 
 <h3> Quatrième séance 27 Janvier </h3>
-- Modification de la Classe Sound
+- Recherche des modifications sur la Classe Sound
 <ul>
 <li> Proposition d'un PullRequest </li>
 </ul>
@@ -45,6 +45,11 @@ Journal de bord groupe 5
 <ul>
 <li> Implementation trop longue pour le réaliser </li>
 </ul>
+
+<h3> Cinquième séance 03 Février </h3>
+- Pull Request sur la class Sound
+- Continue le développement du Jeu
+- Recherche de Projet GitHub
 
 # Lien vers le jeu Test :
 https://github.com/Pierre-Vandesompele/antiMehdi-Game
