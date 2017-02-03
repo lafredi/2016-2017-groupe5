@@ -3,7 +3,6 @@ Journal de bord groupe 5
 
 
 The executable jar archive can be obtained with mvn package. 
-Which can be executed with the command java -jar target/mamepi-0.0.1-SNAPSHOT.jar
 
 <h3> 2016-2017-groupe5 </h3>
 Journal de bord groupe 5
@@ -57,4 +56,8 @@ Journal de bord groupe 5
 
 # Lien vers le jeu Test :
 https://github.com/Pierre-Vandesompele/antiMehdi-Game
+
+# Liste de "vrais" Projets :
+- untrusted (projet orienté web)
+- 
 
