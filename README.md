@@ -62,4 +62,5 @@ https://github.com/Pierre-Vandesompele/antiMehdi-Game
 - https://github.com/AgronKabashi/TemplateEngine
 - https://github.com/Soundnode/soundnode-app
 - https://github.com/taigaio/taiga-front
-
+- https://github.com/akveo/ng2-admin
+- https://github.com/alexhawkins/angular2-tuber
