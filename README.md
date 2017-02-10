@@ -57,6 +57,12 @@ Journal de bord groupe 5
 # Lien vers le jeu Test :
 https://github.com/Pierre-Vandesompele/antiMehdi-Game
 
+<h3> Sizième séance 10 Février </h3>
+- Choix du projet : exercism.io
+<ul>
+<li> https://github.com/exercism/exercism.io </li>
+</ul>
+
 # Liste de "vrais" Projets :
 - untrusted (projet orienté web)
 - https://github.com/AgronKabashi/TemplateEngine
