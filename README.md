@@ -62,6 +62,9 @@ https://github.com/Pierre-Vandesompele/antiMehdi-Game
 <ul>
 <li> https://github.com/exercism/exercism.io </li>
 </ul>
+- Début de la compréhension du nouveau projet
+- Création notice de configuration simple afin de pouvoir tester les exercices et voir les erreurs
+- Début des exercices possible à faire
 
 # Liste de "vrais" Projets :
 - untrusted (projet orienté web)
